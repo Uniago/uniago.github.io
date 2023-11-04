@@ -1,7 +1,8 @@
 ---
 title: Jekyll-minima主题分析
-author: Jan
-date: 2023-11-03
+date: 2023-11-03 09:34:12 +0800
+categories: [笔记]
+tags: ['学习', 'todo', 'jekyll']
 ---
 
 > 想要引用Jekyll的theme，但不知道是什么原理，现在从这里开始吧，然后再与[Jekyll的分布教程](https://jekyllrb.com/docs/step-by-step/01-setup/)做对比吧!后面会在另一篇博客中分析Jekyll分布教程的源码。

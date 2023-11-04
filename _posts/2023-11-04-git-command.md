@@ -1,7 +1,8 @@
 ---
 title: git command
-author: Jan
-date: 2023-11-04
+date: 2023-11-04 13:18:42 +0800
+categories: [笔记]
+tags: ['学习', 'todo']
 ---
 
 ## Git 命令
