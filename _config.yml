@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn: https://cdn.com
 
-img_path: /img/path/
+img_path: /assets/img/
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/avator.jpg
