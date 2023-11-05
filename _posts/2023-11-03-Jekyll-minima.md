@@ -1,7 +1,7 @@
 ---
 title: Jekyll-minima主题分析
 date: 2023-11-03 09:34:12 +0800
-categories: [笔记]
+categories: ['Tech', 'Jekyll']
 tags: ['学习', 'todo', 'jekyll']
 ---
 

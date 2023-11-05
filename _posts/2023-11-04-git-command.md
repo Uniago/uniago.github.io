@@ -1,7 +1,7 @@
 ---
 title: git command
 date: 2023-11-04 13:18:42 +0800
-categories: [笔记]
+categories: ['Tool', 'Git']
 tags: ['学习', 'todo']
 ---
 
@@ -37,6 +37,6 @@ git push origin dev:main
 
 ```bash
 git rm --cached .DS_Store
-git rm -r --cached _site/
+git rm -r --cached _sites/
 ```
 
