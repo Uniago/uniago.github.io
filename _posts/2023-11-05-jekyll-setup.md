@@ -5,7 +5,7 @@ categories: ['Tech', 'Jekyll']
 tags: ['建站']
 ---
 
-> 本文参照[Jekyll官网](https://jekyllrb.com/docs/)分步教程
+> 本文参照[Jekyll官网](https://jekyllrb.com/docs/)分步教程,用以练手写博客
 
 
 
