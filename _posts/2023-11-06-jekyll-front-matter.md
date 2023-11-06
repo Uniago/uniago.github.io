@@ -12,7 +12,7 @@ render_with_liquid: false
 
 ## Front Matter
 
-Front Matter是位于文件开头的两条三重虚线之间的[YAML](http://yaml.org/)片段。
+Front Matter是位于文件开头的两条三重虚线之间的[YAML](https://yaml.org/)片段。
 
 您可以使用front matter为页面设置变量：
 

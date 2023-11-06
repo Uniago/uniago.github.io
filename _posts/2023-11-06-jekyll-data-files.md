@@ -20,7 +20,7 @@ Jekyll可以从 `_data` 目录中加载YAML、JSON和CSV数据文件。数据文
 
 ## 使用数据文件
 
-[YAML](http://yaml.org/) 是Ruby生态系统中常见的格式。您可以使用它来存储一个导航项数组，每个导航项都有一个名称和链接。
+[YAML](https://yaml.org/) 是Ruby生态系统中常见的格式。您可以使用它来存储一个导航项数组，每个导航项都有一个名称和链接。
 
 在 `_data/navigation.yml` 创建导航数据文件，内容如下：
 
