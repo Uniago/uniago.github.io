@@ -46,7 +46,7 @@ Kramdown解析器的文档可以在[Kramdown docs](https://kramdown.gettalong.or
 
 ### 语法高亮 (CodeRay)
 
-要在Kramdown中使用[CodeRay](http://coderay.rubychan.de/)语法高亮器，您需要添加对 `kramdown-syntax-coderay` gem的依赖。例如， `bundle add kramdown-syntax-coderay` 。然后，您将能够在 `syntax_highlighter` 配置中指定CodeRay：
+要在Kramdown中使用[CodeRay](https://coderay.rubychan.de/)语法高亮器，您需要添加对 `kramdown-syntax-coderay` gem的依赖。例如， `bundle add kramdown-syntax-coderay` 。然后，您将能够在 `syntax_highlighter` 配置中指定CodeRay：
 
 ```yaml
 kramdown:
