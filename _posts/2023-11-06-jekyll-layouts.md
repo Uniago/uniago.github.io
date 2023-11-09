@@ -69,7 +69,7 @@ title: Home
 
 下图完美的说明了他们的关系:
 
-![Concept of Jekyll layouts](/assets/images/jekylllayoutconcept.png)
+![Concept of Jekyll layouts](/assets/img/jekylllayoutconcept.png)
 
 
 

@@ -23,3 +23,6 @@ assets/js/dist
 
 # Mac
 .DS_Store
+
+# obsidian
+.obsidian/
