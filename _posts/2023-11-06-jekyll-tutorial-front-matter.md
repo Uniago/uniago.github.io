@@ -1,11 +1,8 @@
 ---
 title: 使用Jekyll搭建博客(三)
 date: 2023-11-06 10:28:33 +0800
-categories:
-  - Tech
-  - Jekyll
-tags:
-  - 建站
+categories: ['Tech', 'Jekyll']
+tags: ['建站']
 render_with_liquid: false
 ---
 

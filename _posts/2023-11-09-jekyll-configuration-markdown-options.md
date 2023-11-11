@@ -5,10 +5,7 @@ categories: ['Tech', 'Jekyll']
 tags: ['Jekyll配置']
 ---
 
-
-
 > [参考原文](https://jekyllrb.com/docs/configuration/markdown/)
-
 
 
 ## Markdown Options Markdown
