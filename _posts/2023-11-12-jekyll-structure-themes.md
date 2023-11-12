@@ -19,7 +19,7 @@ Jekyll拥有一个广泛的主题系统，允许您利用社区维护的模板�
 
 - [GitHub.com #jekyll-theme repos](https://github.com/topics/jekyll-theme)
 - [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)
-- [jekyllthemes.org](http://jekyllthemes.org/)
+- [jekyllthemes.org](https://jekyllthemes.org/)
 - [jekyllthemes.io](https://jekyllthemes.io/)
 - [jekyll-themes.com](https://jekyll-themes.com/)
 
