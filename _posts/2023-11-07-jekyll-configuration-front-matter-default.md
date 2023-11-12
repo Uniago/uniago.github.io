@@ -1,5 +1,5 @@
 ---
-title: Jekyll默认Front Matter
+title: Jekyll Front Matter配置
 date: 2023-11-07 22:47:41 +0800
 categories: ['Tech', 'Jekyll']
 tags: ['Jekyll配置']

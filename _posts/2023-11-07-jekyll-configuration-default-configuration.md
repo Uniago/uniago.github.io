@@ -1,5 +1,5 @@
 ---
-title: Jekyll默认Configuration
+title: Jekyll Default配置
 date: 2023-11-07 22:38:19 +0800
 categories: ['Tech', 'Jekyll']
 tags: ['Jekyll配置']

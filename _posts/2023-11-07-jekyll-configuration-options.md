@@ -1,5 +1,5 @@
 ---
-title: Jekyll配置项
+title: Jekyll Option配置
 date: 2023-11-07 21:11:23 +0800
 categories: ['Tech', 'Jekyll']
 tags: ['Jekyll配置']

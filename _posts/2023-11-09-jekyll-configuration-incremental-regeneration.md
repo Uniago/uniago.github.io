@@ -1,5 +1,5 @@
 ---
-title: Jekyll增量加载
+title: Jekyll增量加载配置
 date: 2023-11-09 22:24:53 +0800
 categories: ['Tech', 'Jekyll']
 tags: ['Jekyll配置']
