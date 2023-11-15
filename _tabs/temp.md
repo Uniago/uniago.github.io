@@ -58,6 +58,8 @@ order: 5
   - [ ] docker
   - [ ] RSS
   - [ ] adb
+  - [ ] scss
+  - [ ] bash
 
 
 
@@ -77,3 +79,12 @@ order: 5
 | 开源指南         | <https://opensource.guide/>                     |
 |                  |                                               |
 
+### 杂记
+
+> 2023-11-15 20:17:47 +0800
+> 今天本来想熟悉下[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)这个主题的,看到源码发现有好多不会的技术啊,比如scss、bash等
+> 我才发现想要系统性的学习真是太难了,项目的用到的技术相关性太强!
+> 那也不能放弃吧,不能系统性的学了,这样只会边学边忘,还是用到什么学什么吧
+> 比如说bash,既然他用到了bash的sed,那就看看sed的这个用法,不要消耗太多时间,保证自己能看懂他这一处是什么作用就好,可以先记起来,以后有空再去系统性的学一下并将其整理成文档.
+> 那就这样吧,周一到周五学习jekyll,周末学习github!
+> 对了,jekyll文档还需要整理,有些front matter都填错了
