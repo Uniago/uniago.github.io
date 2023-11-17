@@ -3,6 +3,7 @@ title: 二进制与十进制互转
 date: 2023-11-17 14:11:31 +0800
 categories: ['Tool', 'Skills']
 tags: ['进制转换']
+math: true
 ---
 
 > 以下说的都是整数位转换
