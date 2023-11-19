@@ -1,7 +1,7 @@
 ---
 title: Windows11安装
 date: 2023-11-11 21:21:45 +0800
-categories: ['Tools', 'Windows']
+categories: ['Tool', 'Windows']
 tags: ['Windows']
 ---
 
