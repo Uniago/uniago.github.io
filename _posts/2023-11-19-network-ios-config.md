@@ -7,7 +7,7 @@ tags: ['网络', '路由器']
 
 ## 路由器
 
-![[assets/img/Pasted image 20231119123714.png]]
+![](/assets/img/20231119123714.png)
 
 
 ### 路由器组成与功能
@@ -63,7 +63,7 @@ Cisco IOS可为设备提供网络服务
 
 ### Cisco IOS模式
 
-![[assets/img/Pasted image 20231119160615.png]]
+![[/assets/img/20231119160615.png]]
 
 - 用户自行模式: `>`
 - 特权执行模式: `#`
